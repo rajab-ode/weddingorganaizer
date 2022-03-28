@@ -38,6 +38,7 @@ class Order(models.Model):
     
     def kembali_barang(self):
         pass
+    ea
 
 class OrderPanggungDetail(models.Model):
     _name = 'wedding.orderpanggungdetail'
