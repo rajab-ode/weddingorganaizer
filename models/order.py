@@ -31,14 +31,13 @@ class Order(models.Model):
     def _compute_total(self):
         for record in self:
             a = sum(self.env['wedding.orderpanggungdetail'].search([('order_id', '=', record.id)]).mapped('harga'))
-            b = sum(self.env['wedding.orderkursitamudetail'].search([('order_id', '=', record.id)]).mapped('harga'))
+            b = sum(self.env['wedding.orderkursitamudetail'].search([('order_id', '=', record.id)]).mapped ('harga'))
             record.total = a + b
 
     sudah_kembali = fields.Boolean(string='Sudah Dikembalikan', default=False)
     
     def kembali_barang(self):
         pass
-    ea
 
 class OrderPanggungDetail(models.Model):
     _name = 'wedding.orderpanggungdetail'

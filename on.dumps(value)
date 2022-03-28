@@ -1,0 +1,35 @@
+[33mcommit fb2d9798ec7ae8e0c4e50c5335ccbe250d6f18dd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mmainor/main[m[33m)[m
+Author: rajab-hashmicro <muhamadrajab111@gmail.com>
+Date:   Mon Mar 28 08:42:37 2022 +0800
+
+    create modul in odoo 14
+
+[33mcommit 2bb27fdfe11dffb3917a6a58c8e9c48a2bc2d144[m
+Author: rajab-hashmicro <Muhamad.Rajab.Ode.Utu@hashmicro.com>
+Date:   Mon Mar 28 08:28:28 2022 +0800
+
+    Menambahkan views akunting
+
+[33mcommit b593f7213ad620c420d70d7e39f24b79a91223bd[m
+Author: rajab-hashmicro <Muhamad.Rajab.Ode.Utu@hashmicro.com>
+Date:   Mon Mar 28 08:21:13 2022 +0800
+
+    adding model akunting
+
+[33mcommit f2b0217c37bb8b1439f5252adf708cff00567628[m
+Author: rajab-hashmicro <Muhamad.Rajab.Ode.Utu@hashmicro.com>
+Date:   Mon Mar 28 08:03:51 2022 +0800
+
+    test
+
+[33mcommit 7c44a146cdeddfc3e5273dd4779a1506abc64463[m
+Author: rajab-hashmicro <Muhamad.Rajab.Ode.Utu@hashmicro.com>
+Date:   Mon Mar 28 07:45:09 2022 +0800
+
+    menambahkan report
+
+[33mcommit b52656f1d5779ea610ded5a8bbab93b38f474cbc[m
+Author: Rajab <67595457+rajab-ode@users.noreply.github.com>
+Date:   Mon Mar 28 08:40:51 2022 +0800
+
+    Initial commit
